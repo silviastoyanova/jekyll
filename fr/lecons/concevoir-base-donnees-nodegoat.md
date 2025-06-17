@@ -73,7 +73,7 @@ Si nous le voulions, nous pourrions enregistrer des informations sur ces livres 
 | The New Class | New York | Milovan Djilas |
 | The Captive Mind | Paris | Czesław Miłosz |
 | La machine et les rouages | Paris | Michel Heller |
-| The Intellectuals on the Road to Class Power| Brighton | Geoge Konrad, Ivan Szelenyi |
+| The Intellectuals on the Road to Class Power| Brighton | George Konrad, Ivan Szelenyi |
 
 </div>
 
